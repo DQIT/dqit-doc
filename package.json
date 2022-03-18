@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "dqit-cloud-doc",
+  "version": "1.0.0",
+  "description": "一笔清泉字的技术分享",
+  "main": "index.js",
+  "author": "mr_hqing@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {}
+}
