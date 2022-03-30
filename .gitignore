@@ -1,6 +1,8 @@
 node_modules
 .temp
 .cache
-.idea
-yarn.lock
 yarn-error.log
+yarn.lock
+.idea
+# 打包目录忽略
+docs/.vuepress/dist
